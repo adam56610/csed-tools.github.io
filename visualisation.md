@@ -4,7 +4,7 @@
 | :--------------------------------------------------------------------------------------------------------- | :----------------- | :--------------------------------------------------------------- | :-------- |
 | AlgoRythmics                                                                                               | Web                | <https://algorythmics.ms.sapientia.ro/>                          | rev       |
 | AlgoTouch                                                                                                  | Java               | <https://algotouch.irisa.fr/>                                    | rev, sur  |
-| Alice                                                                                                      | Java               | <https://www.alice.org/>                                         | rev       |
+| Alice                                                                                                      | Java, Web               | <https://www.alice.org/>                                         | rev       |
 | ANIMAL                                                                                                     | Java               | <http://www.algoanim.net/>                                       | rev       |
 | AnimOS CPU-Scheduling                                                                                      | Web                | <https://ess.cs.tu-dortmund.de/Software/AnimOS/CPU-Scheduling/>  | rev       |
 | BRIDGES                                                                                                    | Web                | <http://bridgesuncc.github.io/>                                  | rev       |
